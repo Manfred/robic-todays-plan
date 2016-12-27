@@ -7,11 +7,11 @@ Eerst ga je naar de instellingen van je TrainingPeaks account en daar klik je op
 ![Instellingen](images/1.png)
 
 
-Om snel het afgelopen jaar te exporteren kan je het beste de datums intiepen, van: 1/1/2016 tot 1/1/2017. Vervolgens klik je op ‘Export’ na even wachten verschijnt er een link om een bestand te downloaden. Dit herhaal je een aantal keer afhankelijk van hoeveel historische data je mee wil nemen.
+Om snel het afgelopen jaar te exporteren kan je het beste de datums intiepen, van: 1/1/2016 tot 1/1/2017. Vervolgens klik je op ‘Export’, na even wachten verschijnt er een link om een bestand te downloaden. Dit herhaal je een aantal keer afhankelijk van hoeveel historische data je mee wil nemen.
 
 ![Export](images/2.png)
 
-TrainingPeaks exporteert een ZIP bestanden met daarin de originele bestanden uit je fietscomputer. Om deze in Today's Plan te kunnen importeren moet je eerst het ZIP bestand uitpakken. De ZIP bestanden heb je daarna niet meer nodig en kan je verwijderen.
+TrainingPeaks exporteert een ZIP bestand met daarin de originele bestanden uit je fietscomputer. Om deze in Today's Plan te kunnen importeren moet je eerst het ZIP bestand uitpakken. De ZIP bestanden heb je daarna niet meer nodig en kan je verwijderen.
 
 > Op de meeste computers kan je ZIP bestanden zonder extra software uitpakken. Als je een wat oudere versie van Windows gebruikt dan kan je bijvoorbeeld [7-Zip](images/http://www.7-zip.org) installeren.
 
