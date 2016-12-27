@@ -29,4 +29,4 @@ Op het tabje ‘Log a ride’ kan je kiezen voor ‘Manually select files’ en
 
 Het is mogelijk dat een import op deze manier heel veel berichten en waarschuwingen in je Inbox produceert. Dit is helaas een functie van Today's Plan die op dit moment tegen je werkt, later is dit een handige manier om bijvoorbeeld achter een verkeerd ingestelde fietscomputer te komen.
 
-Zorg na de export dat de FTP in Today's Plan overeenkomt met de FTP waarde en dan ben je klaar voor 2017!
+Zorg na de export dat de FTP in je fietscomputer overeenkomt met de FTP waarde in Today's Plan en dan ben je klaar voor 2017!
